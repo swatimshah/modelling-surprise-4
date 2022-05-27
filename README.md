@@ -1,5 +1,8 @@
 # modelling-surprise-4
 
+Average False Positive Rate 22%
+Average False Negative Rate 46%
+
 Test Confusion Matrix
 
 radha
